@@ -1,4 +1,3 @@
-```markdown
 # Longitudinal Dosimetric Persistence in Pancreatic Adaptive Radiotherapy
 
 Analysis code for the manuscript:
@@ -51,4 +50,3 @@ All results are saved to `Route1_Master_Results/`:
 ## License
 
 MIT License
-```
